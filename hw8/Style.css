@@ -1,4 +1,4 @@
-﻿body {
+﻿#main {
     background-image: url(background.jpg);
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -50,4 +50,35 @@ a {
     padding: 35px;
     color: maroon;
     margin: auto;
+}
+#pages {
+    background-color: maroon;
+}
+#header {
+    font-size: 300%;
+    color: #f2f3f4;
+    text-align: center;
+    text-shadow: 0 0 5em black, 0 0 .25em black;
+}
+#boxpage {
+    background-color: #f2f3f4;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding: 25px 25px 25px 25px;
+    display: inline-block;
+    border-radius: 15px;
+    box-shadow: 0 0 2em black, 0 0 .25em black
+}
+#boxjob {
+    background-color: #f2f3f4;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 25px 25px 25px 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 2em black, 0 0 .25em black
 }
