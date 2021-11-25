@@ -62,17 +62,6 @@ a {
 }
 #boxpage {
     background-color: #f2f3f4;
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-top: 15px;
-    margin-bottom: 12px;
-    padding: 25px 25px 25px 25px;
-    display: inline-block;
-    border-radius: 15px;
-    box-shadow: 0 0 2em black, 0 0 .25em black
-}
-#boxjob {
-    background-color: #f2f3f4;
     width: 60%;
     margin-left: auto;
     margin-right: auto;
@@ -81,4 +70,7 @@ a {
     padding: 25px 25px 25px 25px;
     border-radius: 15px;
     box-shadow: 0 0 2em black, 0 0 .25em black
+}
+#skills{
+    font-size: 125%;
 }
