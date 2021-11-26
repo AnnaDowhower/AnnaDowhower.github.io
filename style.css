@@ -74,8 +74,8 @@ a {
 #skills{
     font-size: 125%;
 }
-p{
-    font-size: 225%;
+#aboutfont{
+    font-size: 150%;
     padding: 25px;
-
+    margin:0;
 }
