@@ -79,3 +79,16 @@ a {
     padding: 25px;
     margin:0;
 }
+#return {
+    background-color: #c5b358;
+    padding: 8px 8px 8px 8px;
+    width: 5%;
+    border-radius: 15px;
+    box-shadow: 0 0 3em black, 0 0 .25em black;
+    margin-left: 15px;
+    margin-top: 25px;
+}
+#back{
+    color: black;
+    padding: 1px 1px 1px 12px;
+}
